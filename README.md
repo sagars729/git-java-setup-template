@@ -1,2 +1,5 @@
-# git-java-setup-template
-Template repository to check git and java installation
+# git-java-setup
+
+Add your name below. Make sure to add a line between names!
+
+Octo Cat
